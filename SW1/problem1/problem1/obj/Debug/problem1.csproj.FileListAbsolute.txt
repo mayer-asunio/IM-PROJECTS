@@ -1,0 +1,7 @@
+C:\Users\Mechaela\source\repos\mayer1\SW1\problem1\problem1\bin\Debug\problem1.exe.config
+C:\Users\Mechaela\source\repos\mayer1\SW1\problem1\problem1\bin\Debug\problem1.exe
+C:\Users\Mechaela\source\repos\mayer1\SW1\problem1\problem1\bin\Debug\problem1.pdb
+C:\Users\Mechaela\source\repos\mayer1\SW1\problem1\problem1\obj\Debug\problem1.csproj.AssemblyReference.cache
+C:\Users\Mechaela\source\repos\mayer1\SW1\problem1\problem1\obj\Debug\problem1.csproj.CoreCompileInputs.cache
+C:\Users\Mechaela\source\repos\mayer1\SW1\problem1\problem1\obj\Debug\problem1.exe
+C:\Users\Mechaela\source\repos\mayer1\SW1\problem1\problem1\obj\Debug\problem1.pdb
