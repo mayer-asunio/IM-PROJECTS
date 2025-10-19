@@ -1,0 +1,12 @@
+C:\Users\Mayer\source\repos\HW4\SimCardRegistration\SimCardRegistration\bin\Debug\SimCardRegistration.exe.config
+C:\Users\Mayer\source\repos\HW4\SimCardRegistration\SimCardRegistration\bin\Debug\SimCardRegistration.exe
+C:\Users\Mayer\source\repos\HW4\SimCardRegistration\SimCardRegistration\bin\Debug\SimCardRegistration.pdb
+C:\Users\Mayer\source\repos\HW4\SimCardRegistration\SimCardRegistration\obj\Debug\SimCardRegistration.csproj.AssemblyReference.cache
+C:\Users\Mayer\source\repos\HW4\SimCardRegistration\SimCardRegistration\obj\Debug\SimCardRegistration.Form1.resources
+C:\Users\Mayer\source\repos\HW4\SimCardRegistration\SimCardRegistration\obj\Debug\SimCardRegistration.Properties.Resources.resources
+C:\Users\Mayer\source\repos\HW4\SimCardRegistration\SimCardRegistration\obj\Debug\SimCardRegistration.csproj.GenerateResource.cache
+C:\Users\Mayer\source\repos\HW4\SimCardRegistration\SimCardRegistration\obj\Debug\SimCardRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Mayer\source\repos\HW4\SimCardRegistration\SimCardRegistration\obj\Debug\SimCardRegistration.exe
+C:\Users\Mayer\source\repos\HW4\SimCardRegistration\SimCardRegistration\obj\Debug\SimCardRegistration.pdb
+C:\Users\Mayer\source\repos\HW4\SimCardRegistration\SimCardRegistration\obj\Debug\SimCardRegistration.Form2.resources
+C:\Users\Mayer\source\repos\HW4\SimCardRegistration\SimCardRegistration\obj\Debug\SimCardRegistration.Form3.resources
